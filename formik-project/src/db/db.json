@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about racial injustice and childhood in the Deep South.",
+      "price": 14.99,
+      "author": "Harper Lee",
+      "publishedYear": 1960,
+      "genre": "Fiction",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/8225261-L.jpg"
+    },
+    {
+      "title": "1984",
+      "description": "A dystopian novel depicting a totalitarian regime and constant surveillance.",
+      "price": 12.5,
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "genre": "Dystopian",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "title": "The Little Prince",
+      "description": "A poetic story of a young prince who explores planets and human nature.",
+      "price": 10.0,
+      "author": "Antoine de Saint-Exupéry",
+      "publishedYear": 1943,
+      "genre": "Fable",
+      "language": "French",
+      "image": "https://covers.openlibrary.org/b/id/5546156-L.jpg"
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "description": "The saga of the Buendía family and the town of Macondo.",
+      "price": 16.25,
+      "author": "Gabriel García Márquez",
+      "publishedYear": 1967,
+      "genre": "Magical Realism",
+      "language": "Spanish",
+      "image": "https://covers.openlibrary.org/b/id/8775111-L.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "description": "A story of wealth, love, and the American dream in the 1920s.",
+      "price": 11.0,
+      "author": "F. Scott Fitzgerald",
+      "publishedYear": 1925,
+      "genre": "Classic",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/7352162-L.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "description": "A romantic novel of manners that explores marriage and social class.",
+      "price": 13.45,
+      "author": "Jane Austen",
+      "publishedYear": 1813,
+      "genre": "Romance",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "description": "Bilbo Baggins sets out on a journey filled with dragons, treasure, and adventure.",
+      "price": 15.3,
+      "author": "J.R.R. Tolkien",
+      "publishedYear": 1937,
+      "genre": "Fantasy",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+    },
+    {
+      "title": "Crime and Punishment",
+      "description": "A philosophical novel about guilt, redemption, and morality.",
+      "price": 13.75,
+      "author": "Fyodor Dostoevsky",
+      "publishedYear": 1866,
+      "genre": "Psychological Fiction",
+      "language": "Russian",
+      "image": "https://covers.openlibrary.org/b/id/8231853-L.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "description": "A story of teenage angst and alienation in post-war America.",
+      "price": 12.99,
+      "author": "J.D. Salinger",
+      "publishedYear": 1951,
+      "genre": "Literary Fiction",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+    },
+    {
+      "title": "The Alchemist",
+      "description": "A philosophical tale about following your dreams and listening to your heart.",
+      "price": 14.2,
+      "author": "Paulo Coelho",
+      "publishedYear": 1988,
+      "genre": "Adventure",
+      "language": "Portuguese",
+      "image": "https://covers.openlibrary.org/b/id/8128695-L.jpg"
+    }
+  ]
+}
