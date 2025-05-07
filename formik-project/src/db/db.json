@@ -8,7 +8,8 @@
       "publishedYear": 1960,
       "genre": "Fiction",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/8225261-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8225261-L.jpg",
+      "id": "1e02"
     },
     {
       "title": "1984",
@@ -18,17 +19,19 @@
       "publishedYear": 1949,
       "genre": "Dystopian",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+      "id": "8613"
     },
     {
       "title": "The Little Prince",
       "description": "A poetic story of a young prince who explores planets and human nature.",
-      "price": 10.0,
+      "price": 10,
       "author": "Antoine de Saint-Exupéry",
       "publishedYear": 1943,
       "genre": "Fable",
       "language": "French",
-      "image": "https://covers.openlibrary.org/b/id/5546156-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/5546156-L.jpg",
+      "id": "6e0d"
     },
     {
       "title": "One Hundred Years of Solitude",
@@ -38,17 +41,19 @@
       "publishedYear": 1967,
       "genre": "Magical Realism",
       "language": "Spanish",
-      "image": "https://covers.openlibrary.org/b/id/8775111-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8775111-L.jpg",
+      "id": "cb17"
     },
     {
       "title": "The Great Gatsby",
       "description": "A story of wealth, love, and the American dream in the 1920s.",
-      "price": 11.0,
+      "price": 11,
       "author": "F. Scott Fitzgerald",
       "publishedYear": 1925,
       "genre": "Classic",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/7352162-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/7352162-L.jpg",
+      "id": "2fa9"
     },
     {
       "title": "Pride and Prejudice",
@@ -58,7 +63,8 @@
       "publishedYear": 1813,
       "genre": "Romance",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg",
+      "id": "970f"
     },
     {
       "title": "The Hobbit",
@@ -68,7 +74,8 @@
       "publishedYear": 1937,
       "genre": "Fantasy",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+      "id": "399b"
     },
     {
       "title": "Crime and Punishment",
@@ -78,7 +85,8 @@
       "publishedYear": 1866,
       "genre": "Psychological Fiction",
       "language": "Russian",
-      "image": "https://covers.openlibrary.org/b/id/8231853-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8231853-L.jpg",
+      "id": "cb6f"
     },
     {
       "title": "The Catcher in the Rye",
@@ -88,7 +96,8 @@
       "publishedYear": 1951,
       "genre": "Literary Fiction",
       "language": "English",
-      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+      "id": "03eb"
     },
     {
       "title": "The Alchemist",
@@ -98,7 +107,19 @@
       "publishedYear": 1988,
       "genre": "Adventure",
       "language": "Portuguese",
-      "image": "https://covers.openlibrary.org/b/id/8128695-L.jpg"
+      "image": "https://covers.openlibrary.org/b/id/8128695-L.jpg",
+      "id": "8f8a"
+    },
+    {
+      "id": "5d55",
+      "title": "The Hobbit",
+      "description": "Bilbo Baggins sets out on a journey filled with",
+      "price": "15.3",
+      "author": "J.R.R. Tolkien",
+      "publishedYear": "1937",
+      "genre": "Fantasy",
+      "language": "English",
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
     }
   ]
 }
